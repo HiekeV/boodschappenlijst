@@ -1,0 +1,22 @@
+body {
+    font-family: Sans-Serif;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    text-align: start;
+}
+
+th, td {
+    border: 1px solid #888;
+    padding: 10px;
+}
+
+.bedrag {
+    text-align: end;
+}
+
+
